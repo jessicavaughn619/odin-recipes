@@ -1,0 +1,30 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-image: url("images/recipe-background.jpeg");
+    font-weight: normal;
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    text-transform: uppercase;
+}
+
+.contents {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 2;
+}
+
+h3 {
+    font-size: 22px;
+    font-style: italic;
+}
+
+img {
+    border-radius: 8px;
+    display: block;
+    height: 400px;
+    width: auto;
+}
